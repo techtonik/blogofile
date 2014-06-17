@@ -65,7 +65,7 @@ you will also need one of the Python packaging libraries that supports
 Using a Python virtualenv_ is strongly recommended to segregate
 Blogofile and the packages it depends on from your system Python
 installation.
-It has the added advantage of taking are of the packaging library issue
+It has the added advantage of taking care of the packaging library issue
 for you too.
 
 .. _virtualenv: http://www.virtualenv.org/
